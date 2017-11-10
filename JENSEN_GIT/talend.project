@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_Iq524cYoEeePMcZ7AdBk0g" label="JENSEN_GIT" description="JENSEN_GIT" language="java" technicalLabel="JENSEN_GIT" creationDate="2017-11-10T13:52:19.874+0000" author="_Iq524sYoEeePMcZ7AdBk0g" productVersion="Talend Data Management Platform-6.3.1.20161216_1026" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/redmandba/TALEND.git&quot;,&quot;login&quot;:&quot;redmandba&quot;,&quot;passwd&quot;:&quot;7WZEqXFHrKCdTZf4Oe3/sw==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI"/>
+  <TalendProperties:User xmi:id="_Iq524sYoEeePMcZ7AdBk0g" login="jensen.langford@esure.com" firstName="Jensen" lastName="Langford" type="DQ" additionnalData="{}"/>
+</xmi:XMI>
